@@ -10,7 +10,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@architect/sandbox": "^3.4.1",
+    "@architect/sandbox": "^4.0.0",
     "gray-matter": "^4.0.2",
     "next": "^10.1.2",
     "react": "16.14.0",
